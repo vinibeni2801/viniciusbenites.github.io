@@ -20,7 +20,7 @@ I am a Data Engineer with expertise in designing scalable data infrastructures, 
 
 ## **Professional Experience**
 
-### **Tech Lead**  
+### **Lead Data Engineer**  
 *Boa Vista Serviços, São Paulo, SP*  
 *2022 - Present*  
 Lead the implementation of GCP-based data architectures, focusing on building scalable pipelines, orchestrating workflows, and integrating AI models into production.
