@@ -1,93 +1,104 @@
-# **Vinicius Benites**  
-**Severino Massa Spinelli Street, Tambaú, João Pessoa, Brazil**  
-+55 67 99258-9383  
-[vinibeni2801@gmail.com](mailto:vinibeni2801@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/vinicius-benites-3703b71a4/)  
-[GitHub](https://github.com/vinibeni2801?tab=repositories)
+# Vinicius Benites - Data Engineer
+
+**Vinicius Benites**  
+Rua Severino Massa Spinelli,  
+João Pessoa, BR  
+
+**Email:** [vinibeni2801@gmail.com](mailto:vinibeni2801@gmail.com)  
+**Linkedin:** [LinkedIn](https://www.linkedin.com/in/vinicius-benites-3703b71a4/)  
+---
+
+## EXPERIENCE
+
+### Equifax Boa Vista, São Paulo, Brazil — Data Engineer  
+**Apr 2022 - PRESENT**  
+- Work together with business to design and implement new pipelines for different teams.  
+- Mentor junior and core data engineers.  
+- Design and implement large distributed pipelines across B2B and B2C.  
+
+**Main tech:** Google Cloud, Python, SQL, Pyspark, SQL, Spark, Airflow, Dataproc, Google Cloud Functions, Pub/Sub, Kubernetes, Docker, Web Scraping, SQL Database, NoSQL Database, FastAPI.  
 
 ---
 
-## **Professional Summary**  
-I am a Data Engineer with expertise in designing scalable data infrastructures, specializing in the creation of pipelines that integrate seamlessly with machine learning models. With proficiency in technologies such as Databricks, Python, Spark, SQL, PySpark, Airflow, Azure, and GCP, I build solutions that optimize performance, ensure scalability, and reduce operational costs. Passionate about leveraging data to power AI-driven insights, I deliver robust end-to-end pipelines that support business decision-making.
+### Keyrus, São Paulo, Brazil — Data Engineer  
+**Jul 2021 - Apr 2022**  
+- Work together with different clients to understand their needs and design tech solutions.  
+- Gather requirements with product area and design pipelines to achieve business needs.  
+- Design batch and streaming pipelines to deliver data to a data science application.  
+
+**Main tech:** Python, Pyspark, Microsoft Azure, Data Factory, Event Hubs, Databricks, Synapse Analytics, Docker, Kubernetes, SQL Database, NoSQL Database, FastAPI.  
 
 ---
 
-## **Education**  
-**Information Technology** - Federal University of Mato Grosso do Sul  
-**Big Data and Data Science** - Pontifical Catholic University of Minas Gerais
+### Act Digital, São Paulo, Brazil — Data Engineer  
+**Jun 2020 - Jul 2021**  
+- Increase the response time of the sales team’s dashboards using Microsoft Azure stack.  
+- Work with a data engineer team to migrate the Qlik process to Spark pipelines in Databricks.  
+- Document the business rules applied in data pipelines.  
+
+**Main tech:** Python, SQL, Microsoft Azure, Data Factory, Event Hubs, Databricks, Synapse Analytics, Pyspark, Qlik, Power BI.  
 
 ---
 
-## **Professional Experience**
+### Sistemas Fiems, Campo Grande, Brazil — Data Engineer  
+**Nov 2019 - Jun 2020**  
+- Design batch pipelines to deliver data to data science and Business Analytics teams.  
+- Gather requirements with different areas and design pipelines to achieve business needs.  
 
-### **Lead Data Engineer**  
-*Boa Vista Serviços, São Paulo, SP*  
-*2022 - Present*  
-Lead the implementation of GCP-based data architectures, focusing on building scalable pipelines, orchestrating workflows, and integrating AI models into production.
-
-**Key Activities**:
-- Developed data processing solutions with Dataproc (Spark) and PubSub for streaming data.
-- Deployed APIs using Python and FastAPI, orchestrated with Docker and Kubernetes (GKE).
-- Managed data storage using Google Cloud Storage, BigQuery, BigTable, and Postgres.
-- Orchestrated workflows with Composer Airflow.
-- Implemented data governance with Dataplex and version control using GitLab.
-
-### **Data Engineer**  
-*Keyrus, São Paulo, SP*  
-*2021 - 2022*  
-Built end-to-end data pipelines using Azure services and Databricks, ensuring seamless integration for AI-driven applications.
-
-**Key Activities**:
-- Developed scalable data processing solutions with Databricks and Medallion Architecture.
-- Integrated real-time data streams with Azure Event Hubs and Databricks for batch processing.
-- Created and optimized pipelines using Azure Data Factory and Delta Lake.
-- Deployed Dockerized APIs with FastAPI and Kubernetes (AKS).
-
-### **Data Engineer**  
-*Act Digital, São Paulo, SP*  
-*2020 - 2021*  
-Designed and implemented data pipelines for real-time dashboard updates using Databricks and Azure services.
-
-**Key Activities**:
-- Developed data storage solutions with Azure Data Lake Gen2.
-- Created robust pipelines with Azure Data Factory and Databricks.
-- Optimized pipeline performance and storage architecture for better data accessibility.
-
-### **Analytics Engineer**  
-*Fiems System, Campo Grande, MS*  
-*2018 - 2020*  
-Developed batch data pipelines using Databricks and Azure services, enhancing data availability for BI and machine learning models.
-
-**Key Activities**:
-- Created data workflows using Azure Data Factory and Databricks.
-- Managed batch processing layers (bronze, silver, gold) using Delta Lake.
-- Provided optimized data models for BI and machine learning use cases.
+**Main tech:** Microsoft Azure, Databricks, Spark, Python, Pyspark, SQL.  
 
 ---
 
-## **Skills**
-- **Cloud Platforms**: Azure, AWS, GCP  
-- **Programming**: Python, SQL, Spark, PySpark  
-- **Data Architectures**: Medallion Architecture, Lambda Architecture  
-- **Databases**: SQL Server, PostgreSQL, BigQuery, BigTable  
-- **Data Processing**: ETL/ELT, Real-time Streaming (PubSub, EventHub)  
-- **Tools**: Databricks, Airflow, Docker, Kubernetes, FastAPI  
-- **Version Control**: GitLab  
-- **Infrastructure as Code**: Terraform
+### Data Freelancer, Campo Grande, Brazil — Entrepreneur  
+**Nov 2017 - Nov 2019**  
+- Design batch pipelines to deliver dashboards that help businesses make decisions and monitor their performance.  
+- Gather requirements with clients and design pipelines and dashboards to achieve business needs.  
+- Close contracts for the sale of dashboards.  
+
+**Main tech:** AWS, AWS Lambda, S3, EC2, Spark, Python, Pandas, SQL, SQL Database, Dashboards.  
 
 ---
 
-## **Certifications**
-- **Data Engineer with Databricks**  
-- **Udacity Data Engineer Nanodegree**  
-- **Apache Spark by Luan Moreno**  
-- **Terraform**: Beginner to Advanced  
-- **Apache Airflow**: Complete Course (Beginner to Advanced)  
-- **IGTI Bootcamp**: Data Engineer  
+### TJMS, Campo Grande, Brazil — Database Intern  
+**Jan 2017 - Nov 2017**  
+- Develop process automation, create tables, data processing, and triggers.  
+
+**Main tech:** SQL Server, Postgres, SQL.  
 
 ---
 
-## **Additional Links**  
-[LinkedIn](https://www.linkedin.com/in/vinicius-benites-3703b71a4/)  
-[GitHub](https://github.com/vinibeni2801?tab=repositories)
+## SKILLS
 
+- Python, Spark, Pyspark, SQL, Airflow, Kafka, Kubernetes, Amazon AWS, Microsoft Azure, Google Cloud, Databricks, Snowflake, DBT.  
+- Applied these skills in multiple large data pipelines used by companies around the world.  
+
+---
+
+## HIGHLIGHTS
+
+- Designed and led the development of a batch and streaming data platform capable of handling millions of rows with auto-scaling and resilience.  
+- Tuned Spark data pipelines that used to run in 4 hours to execute in just minutes.  
+- Designed pipelines for a reporting service capable of handling millions of rows for B2B partners.  
+
+---
+
+## LANGUAGES
+
+- Portuguese  
+- English  
+
+---
+
+## EDUCATION
+
+### The Cloud Bootcamp  
+**Postgraduate in MultiCloud, DevOps, and AI**  
+**Jan 2024 - Dec 2025**  
+
+### Pontifical Catholic University of Minas Gerais  
+**Postgraduate in Big Data and Data Science**  
+**Jan 2020 - Dec 2021**  
+
+### Federal University of Mato Grosso do Sul  
+**Bachelor’s in Information Technology**  
+**Jan 2014 - Dec 2018**  
